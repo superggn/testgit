@@ -1,2 +1,3 @@
 a new file after git config
 on branch master new
+branch master
